@@ -7,7 +7,7 @@ Este notebook investiga o histórico de acessos à telefonia móvel no Brasil. A
 * **Dados da Anatel:** Base de dados contendo o registro mensal de acessos de telefonia móvel particionado por DDD, tecnologia e ano/mês.
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
-* **Python 3.x**
+* **Python 3.12**
 * **Pandas:** Conversão de tipos, tratamento de datas e agregações.
 * **Seaborn & Matplotlib:** Plotagem de séries temporais e gráficos de barras ordenados.
 
