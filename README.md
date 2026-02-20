@@ -1,0 +1,2 @@
+# Evolu-o-e-Transi-o-Tecnol-gica-dos-Acessos-de-Telefonia-M-vel-Anatel-
+Este script foca na investigação do histórico de acessos à telefonia móvel no Brasil, documentando a evolução temporal e a transição entre diferentes gerações de tecnologia (2G, 3G, 4G, M2M). A análise busca entender o comportamento do mercado de telecomunicações, desde o volume total de linhas ativas até a distribuição geográfica por estado.
